@@ -1,0 +1,8 @@
+{
+    "minVersion": "0.8",
+    "refmap": "mahou-tsukai-cme.refmap.json",
+    "package": "rmc.mixins.mahou_tsukai_cme.inject",
+    "mixins": [
+        "SettingsMahouStorageMixin"
+    ]
+}
